@@ -1,0 +1,22 @@
+body
+{
+background-color:pink;
+}
+table
+{
+width : 100%;
+text-align : center;
+height:40px;
+background-color:green;
+line-height:40px;
+font-size:20px;
+padding : 20px;
+}
+h2
+{
+text-align : center;
+}
+section
+{
+text-align:center;
+}
